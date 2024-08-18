@@ -5,3 +5,6 @@ extract the folder and locate index.js once you locate insert your bot token
 after than run node .
 -------------------------------------
 if you have any bug reports join our discord server: https://discord.com/invite/J3GKmBf2Qu
+
+We have solved bugs on module files as soon as possible.
+you can Contact me using this email or join slack
